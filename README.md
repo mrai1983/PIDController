@@ -2,7 +2,9 @@
 Self-Driving Car Engineer Nanodegree Program
 ---
 # Description
-Separate PID controllers are used for controlling steering wheel values and throttle values. All the values are tuned manually.
+Separate PID controllers are used for controlling steering wheel values and throttle values. All the values are tuned manually. Please click on the image below to watch video.
+
+[![Project Video](http://img.youtube.com/vi/UWhDe0RZqkg/0.jpg)](https://youtu.be/UWhDe0RZqkg)
 
 ## PID Description
 
